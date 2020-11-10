@@ -1,4 +1,4 @@
-## Condominio TSI - Desenvolvimento de Componentes e Serviços
+## Condomínio TSI - Desenvolvimento de Componentes e Serviços
 
 - Leonardo Martinez
 
